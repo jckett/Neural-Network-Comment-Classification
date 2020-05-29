@@ -1,6 +1,10 @@
 # Neural Network Classifier
 
-This project builds a Neural Network classification models to fit image and text data.  
+Humans are relatively good at understanding which texts are related to each other and which photos possess similar qualities. But how do computers figure it out? This project builds a Neural Network classification models to fit image and text data.  
+
+## The Data
+
+The data was directly provided, but can be found [here](https://tinyurl.com/y6vujlwl).
 
 ## Technologies
 
